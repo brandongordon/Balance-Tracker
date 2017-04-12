@@ -1,4 +1,3 @@
-#Brandon Gordon - Student Number: 10447737
 ################ Information on the zip() function was found here: http://stackoverflow.com/questions/3471999/how-do-i-merge-two-lists-into-a-single-list ################
 
 transactionAmounts = []    #tracks the amounts added to or subtracted from the balance. Requirement #1
